@@ -24,10 +24,8 @@ https://github.com/user-attachments/assets/9cd62156-d272-4663-855e-cf8fbf25f156
 ## Video Demo Aplikasi 4
 
 [Demo Video](app/docs/videos/demo3.mp4)
+
+https://github.com/user-attachments/assets/ba848046-6231-4307-b60c-c66f1aa29571
+
 =======
 
-
->>>>>>> e847ea4cad2da7bbb8cab0ba133a9feb08f4efde
-=======
-https://github.com/user-attachments/assets/9cd62156-d272-4663-855e-cf8fbf25f156
-ba53e284fa1a7c7606465989741bfc602f6f57a4
